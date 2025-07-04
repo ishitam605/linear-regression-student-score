@@ -5,7 +5,7 @@ The goal of this project is to predict student marks using Python and a simple l
 
 ## 📁 Files Included
 - `linear_regression.ipynb` – Jupyter Notebook with model training and prediction
-- `student_scores - student_scorese.csv` – Dataset of study hours vs. scores
+- `student_scores - student_scores.csv` – Dataset of study hours vs. scores
 - `Readme.md` – Project overview and instructions
 
 ## ▶️ How to Run
