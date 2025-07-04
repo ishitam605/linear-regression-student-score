@@ -3,12 +3,10 @@
 
 The goal of this project is to predict student marks using Python and a simple linear regression approach, based on hours spent studying.
 
-
 ## 📁 Files Included
-- `linear_regression.py` – Python script with model training and prediction
-- `student_scores.csv` – Dataset of hours vs scores
-- `README.md` – Project info
-
+- `linear_regression.ipynb` – Jupyter Notebook with model training and prediction
+- `student_scores.csv` – Dataset of study hours vs. scores
+- `README.md` – Project overview and instructions
 
 ## ▶️ How to Run
 1. Make sure you have Python installed
@@ -17,7 +15,6 @@ The goal of this project is to predict student marks using Python and a simple l
    - matplotlib
    - scikit-learn
 
-
-3. Run the script:
+3. Launch Jupyter Notebook:
 ```bash
-python linear_regression.py
+jupyter notebook
